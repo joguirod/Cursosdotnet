@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "IntermediarioExericio2/1.0.0": {
+        "runtime": {
+          "IntermediarioExericio2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IntermediarioExericio2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

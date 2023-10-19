@@ -1,0 +1,15 @@
+C:\Users\José Guilherme\Desktop\cursos_udemy\Csharp_completo\Intermediario\IntermediarioExercicio3\IntermediarioExercicio3\bin\Debug\net6.0\IntermediarioExercicio3.exe
+C:\Users\José Guilherme\Desktop\cursos_udemy\Csharp_completo\Intermediario\IntermediarioExercicio3\IntermediarioExercicio3\bin\Debug\net6.0\IntermediarioExercicio3.deps.json
+C:\Users\José Guilherme\Desktop\cursos_udemy\Csharp_completo\Intermediario\IntermediarioExercicio3\IntermediarioExercicio3\bin\Debug\net6.0\IntermediarioExercicio3.runtimeconfig.json
+C:\Users\José Guilherme\Desktop\cursos_udemy\Csharp_completo\Intermediario\IntermediarioExercicio3\IntermediarioExercicio3\bin\Debug\net6.0\IntermediarioExercicio3.dll
+C:\Users\José Guilherme\Desktop\cursos_udemy\Csharp_completo\Intermediario\IntermediarioExercicio3\IntermediarioExercicio3\bin\Debug\net6.0\IntermediarioExercicio3.pdb
+C:\Users\José Guilherme\Desktop\cursos_udemy\Csharp_completo\Intermediario\IntermediarioExercicio3\IntermediarioExercicio3\obj\Debug\net6.0\IntermediarioExercicio3.csproj.AssemblyReference.cache
+C:\Users\José Guilherme\Desktop\cursos_udemy\Csharp_completo\Intermediario\IntermediarioExercicio3\IntermediarioExercicio3\obj\Debug\net6.0\IntermediarioExercicio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\José Guilherme\Desktop\cursos_udemy\Csharp_completo\Intermediario\IntermediarioExercicio3\IntermediarioExercicio3\obj\Debug\net6.0\IntermediarioExercicio3.AssemblyInfoInputs.cache
+C:\Users\José Guilherme\Desktop\cursos_udemy\Csharp_completo\Intermediario\IntermediarioExercicio3\IntermediarioExercicio3\obj\Debug\net6.0\IntermediarioExercicio3.AssemblyInfo.cs
+C:\Users\José Guilherme\Desktop\cursos_udemy\Csharp_completo\Intermediario\IntermediarioExercicio3\IntermediarioExercicio3\obj\Debug\net6.0\IntermediarioExercicio3.csproj.CoreCompileInputs.cache
+C:\Users\José Guilherme\Desktop\cursos_udemy\Csharp_completo\Intermediario\IntermediarioExercicio3\IntermediarioExercicio3\obj\Debug\net6.0\IntermediarioExercicio3.dll
+C:\Users\José Guilherme\Desktop\cursos_udemy\Csharp_completo\Intermediario\IntermediarioExercicio3\IntermediarioExercicio3\obj\Debug\net6.0\refint\IntermediarioExercicio3.dll
+C:\Users\José Guilherme\Desktop\cursos_udemy\Csharp_completo\Intermediario\IntermediarioExercicio3\IntermediarioExercicio3\obj\Debug\net6.0\IntermediarioExercicio3.pdb
+C:\Users\José Guilherme\Desktop\cursos_udemy\Csharp_completo\Intermediario\IntermediarioExercicio3\IntermediarioExercicio3\obj\Debug\net6.0\IntermediarioExercicio3.genruntimeconfig.cache
+C:\Users\José Guilherme\Desktop\cursos_udemy\Csharp_completo\Intermediario\IntermediarioExercicio3\IntermediarioExercicio3\obj\Debug\net6.0\ref\IntermediarioExercicio3.dll

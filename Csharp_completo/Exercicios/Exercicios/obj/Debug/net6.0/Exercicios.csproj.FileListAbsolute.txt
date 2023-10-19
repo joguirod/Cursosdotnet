@@ -1,0 +1,15 @@
+C:\Users\José Guilherme\Desktop\cursos_udemy\Csharp_completo\Exercicios\Exercicios\obj\Debug\net6.0\Exercicios.csproj.AssemblyReference.cache
+C:\Users\José Guilherme\Desktop\cursos_udemy\Csharp_completo\Exercicios\Exercicios\obj\Debug\net6.0\Exercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\José Guilherme\Desktop\cursos_udemy\Csharp_completo\Exercicios\Exercicios\obj\Debug\net6.0\Exercicios.AssemblyInfoInputs.cache
+C:\Users\José Guilherme\Desktop\cursos_udemy\Csharp_completo\Exercicios\Exercicios\obj\Debug\net6.0\Exercicios.AssemblyInfo.cs
+C:\Users\José Guilherme\Desktop\cursos_udemy\Csharp_completo\Exercicios\Exercicios\obj\Debug\net6.0\Exercicios.csproj.CoreCompileInputs.cache
+C:\Users\José Guilherme\Desktop\cursos_udemy\Csharp_completo\Exercicios\Exercicios\bin\Debug\net6.0\Exercicios.exe
+C:\Users\José Guilherme\Desktop\cursos_udemy\Csharp_completo\Exercicios\Exercicios\bin\Debug\net6.0\Exercicios.deps.json
+C:\Users\José Guilherme\Desktop\cursos_udemy\Csharp_completo\Exercicios\Exercicios\bin\Debug\net6.0\Exercicios.runtimeconfig.json
+C:\Users\José Guilherme\Desktop\cursos_udemy\Csharp_completo\Exercicios\Exercicios\bin\Debug\net6.0\Exercicios.dll
+C:\Users\José Guilherme\Desktop\cursos_udemy\Csharp_completo\Exercicios\Exercicios\bin\Debug\net6.0\Exercicios.pdb
+C:\Users\José Guilherme\Desktop\cursos_udemy\Csharp_completo\Exercicios\Exercicios\obj\Debug\net6.0\Exercicios.dll
+C:\Users\José Guilherme\Desktop\cursos_udemy\Csharp_completo\Exercicios\Exercicios\obj\Debug\net6.0\refint\Exercicios.dll
+C:\Users\José Guilherme\Desktop\cursos_udemy\Csharp_completo\Exercicios\Exercicios\obj\Debug\net6.0\Exercicios.pdb
+C:\Users\José Guilherme\Desktop\cursos_udemy\Csharp_completo\Exercicios\Exercicios\obj\Debug\net6.0\Exercicios.genruntimeconfig.cache
+C:\Users\José Guilherme\Desktop\cursos_udemy\Csharp_completo\Exercicios\Exercicios\obj\Debug\net6.0\ref\Exercicios.dll

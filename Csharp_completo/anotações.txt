@@ -1,0 +1,52 @@
+!!! HERANÇA !!!
+
+	* É um tipo de associação que permite que uma classe herde dados e comportamentos de outra
+
+	* Relação "é-um"
+	* Generalização/especialização ex: Conta, Conta empresarial
+	* Superclasse (Classe base): classe genérica; subclasse (classe derivada): classe especializada que derivada da superclasse
+	* Herança/Extensão
+
+	* base(args): aproveita o construtor da superclasse
+
+	* protected: libera o acesso a atributos privativos da superclasse em uma subclasse, o private liberaria acesso apenas na superclasse.
+
+
+!!! UPCASTING - DOWNCASTING !!!
+
+	! Upcasting
+	* Casting da subclasse para superclasse (conversão)
+	* Utilizado no polimorfismo
+	! Downcasting
+	* Casting da superclasse para subclasse
+	* as -> forma de fazer casting, dessa forma fica: classe objeto2 = objeto1 as classe
+	* is -> verifica se o objeto é uma instância
+
+!!! SOBREPOSIÇÃO !!!
+
+	* É a implementação de um método de uma superclasse na subclasse
+
+	* Para que um método comum (não abstrato) possa ser sobreposto, deve ser incluído nele o prefixo "virtual" (Superclasse)
+
+	* Ao sobrescrever um método, devemos incluir nele o prefixo override (Subclasse)
+
+	* base.Método() -> reaproveita a implementação da superclasse e possibilita adicionar mais coisas.
+
+
+!!! SEALED !!!
+
+	* Palavra chave sealed
+
+	* Classe selada: Evita que a classe seja herdada
+
+	* Método selado: Evita que um método sobreposto seja sobreposto novamente
+		* só pode ser utilizado para métodos sobrepostos
+
+!!! CLASSES E MÉTODOS ABSTRATOS !!!
+	
+	* Classes
+		* São classes que não pode ser instanciadas
+		* Herança total: somente subclasses não abstratas podem ser instanciadas.
+	* Métodos
+		* São métodos que não possuem implementação
+		* Métodos precisam ser abstratos quando a classe é genéria demais para onter sua implementação
